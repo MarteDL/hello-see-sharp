@@ -1,0 +1,16 @@
+/home/marte/Documents/Becode/helloWorld/bin/Debug/net5.0/helloWorld
+/home/marte/Documents/Becode/helloWorld/bin/Debug/net5.0/helloWorld.deps.json
+/home/marte/Documents/Becode/helloWorld/bin/Debug/net5.0/helloWorld.runtimeconfig.json
+/home/marte/Documents/Becode/helloWorld/bin/Debug/net5.0/helloWorld.runtimeconfig.dev.json
+/home/marte/Documents/Becode/helloWorld/bin/Debug/net5.0/helloWorld.dll
+/home/marte/Documents/Becode/helloWorld/bin/Debug/net5.0/ref/helloWorld.dll
+/home/marte/Documents/Becode/helloWorld/bin/Debug/net5.0/helloWorld.pdb
+/home/marte/Documents/Becode/helloWorld/obj/Debug/net5.0/helloWorld.csprojAssemblyReference.cache
+/home/marte/Documents/Becode/helloWorld/obj/Debug/net5.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/marte/Documents/Becode/helloWorld/obj/Debug/net5.0/helloWorld.AssemblyInfoInputs.cache
+/home/marte/Documents/Becode/helloWorld/obj/Debug/net5.0/helloWorld.AssemblyInfo.cs
+/home/marte/Documents/Becode/helloWorld/obj/Debug/net5.0/helloWorld.csproj.CoreCompileInputs.cache
+/home/marte/Documents/Becode/helloWorld/obj/Debug/net5.0/helloWorld.dll
+/home/marte/Documents/Becode/helloWorld/obj/Debug/net5.0/ref/helloWorld.dll
+/home/marte/Documents/Becode/helloWorld/obj/Debug/net5.0/helloWorld.pdb
+/home/marte/Documents/Becode/helloWorld/obj/Debug/net5.0/helloWorld.genruntimeconfig.cache
