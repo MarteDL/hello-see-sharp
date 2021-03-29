@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "84wTsfr/hLqqAwkj+i++bgxAq0fcLKLfvvUOPbUltLkPgQURj3IVTldB46NP8ArgDjBooEJAIXmZTVgoDbDwxg==",
+  "dgSpecHash": "RWpycWrlSAWkikf6m0h4j3Zbvw4dMzf0azONK1M+jr+FYZ7/rRANpKucdslNHPLWjO/EBo7LiBxgb6ZGlo3eSA==",
   "success": true,
-  "projectFilePath": "/home/marte/Documents/Becode/helloWorld/helloWorld.csproj",
+  "projectFilePath": "/home/marte/Documents/Becode/hello-see-sharp/helloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marte/Documents/Becode/helloWorld/helloWorld.csproj",
+      "projectUniqueName": "/home/marte/Documents/Becode/hello-see-sharp/helloWorld.csproj",
       "projectName": "helloWorld",
-      "projectPath": "/home/marte/Documents/Becode/helloWorld/helloWorld.csproj",
+      "projectPath": "/home/marte/Documents/Becode/hello-see-sharp/helloWorld.csproj",
       "packagesPath": "/home/marte/.nuget/packages/",
-      "outputPath": "/home/marte/Documents/Becode/helloWorld/obj/",
+      "outputPath": "/home/marte/Documents/Becode/hello-see-sharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/marte/.nuget/NuGet/NuGet.Config"
