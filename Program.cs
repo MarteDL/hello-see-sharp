@@ -14,13 +14,11 @@ namespace helloWorld
             
             var inputDate = Console.ReadLine();
             var birthDate = DateTime.Parse(inputDate);
-            var currentDate = DateTime.Now; 
 
-            var age = GetAge(birthDate, currentDate);
+            var age = GetAge(birthDate);
 
-            Console.WriteLine($"So you were born on {birthDate.ToString("", new CultureInfo("en-GB"))}.");
+            Console.WriteLine($"So you were born on {birthDate.ToString("dd MMMM yyyy", new CultureInfo("en-GB"))}.");
             
-
             if (age >= 30)
             {
                 Console.WriteLine($"Wooow, that means that you are {age} years old already. Here come the grey hairs!");
@@ -36,8 +34,9 @@ namespace helloWorld
             // 
         }
 
-        static int GetAge(DateTime birthDate, DateTime currentDate)
+        static int GetAge(DateTime birthDate)
         {
+            var currentDate = DateTime.Now; 
             var age = currentDate.Year - birthDate.Year;
 
             if (currentDate.Month < birthDate.Month || (currentDate.Month == birthDate.Month && currentDate.Day < birthDate.Day))
